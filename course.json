@@ -1,0 +1,84 @@
+{
+    "data": [{
+        "id":1,
+        "category-course":"Kelas Gratis Populer"
+        "list-course":[
+        {
+            "id":1,
+            "title":"Kerjasama Tim Dalam Kesuksesan UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/vlfJNZApQ5CtzFoVTW9T",
+            "url":"https://www.latihid.com/p/kerjasama-tim-dalam-kesuksesan-umkm"
+            "price":"Gratis"
+        },
+        {
+            "id":2,
+            "title":"Mencari Modal untuk Memulai Usaha",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/7Sh4j4pTi6DaYeSXdx7M"
+            "url":"https://www.latihid.com/p/mencari-modal-untuk-memulai-usaha",
+            "price":"Gratis"
+        },
+        {
+             "id":3,
+             "title":"Manajemen Produk: Mengubah Ide Kreatif Menjadi Produk Jadi",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/cdc6mSS8R767CSyYYCNb"
+             "url":"https://www.latihid.com/p/manajemen-produk",
+             "price":"Gratis"
+        },
+        {
+             "id":4,
+             "title":"Social Media Marketing",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/G6MNtda4SlS91mbbOZAb"
+             "url":"https://www.latihid.com/p/sosial-media-marketing",
+             "price":"Gratis"
+        },
+        {
+             "id":5,
+             "title":"Mengenal Business Model Canvas",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/g1Hvjq3iTrldUFC3PRsM"
+             "url":"https://www.latihid.com/p/business-model-canvas",
+             "price":"Gratis"
+        }]
+       
+    },
+    {
+        "id":2,
+        "category-course":"Kelas LatihID Terbaru"
+        "list-course":[
+         {
+            "id":1,
+            "title":"Kerjasama Tim Dalam Kesuksesan UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/vlfJNZApQ5CtzFoVTW9T",
+            "url":"https://www.latihid.com/p/kerjasama-tim-dalam-kesuksesan-umkm"
+            "price":"Gratis"
+        },
+        {
+            "id":2,
+            "title":"Mencari Modal untuk Memulai Usaha",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/7Sh4j4pTi6DaYeSXdx7M"
+            "url":"https://www.latihid.com/p/mencari-modal-untuk-memulai-usaha",
+            "price":"Gratis"
+        },
+        {
+             "id":3,
+             "title":"Manajemen Produk: Mengubah Ide Kreatif Menjadi Produk Jadi",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/cdc6mSS8R767CSyYYCNb"
+             "url":"https://www.latihid.com/p/manajemen-produk",
+             "price":"Gratis"
+        },
+        {
+             "id":4,
+             "title":"Social Media Marketing",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/G6MNtda4SlS91mbbOZAb"
+             "url":"https://www.latihid.com/p/sosial-media-marketing",
+             "price":"Gratis"
+        },
+        {
+             "id":5,
+             "title":"Mengenal Business Model Canvas",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/g1Hvjq3iTrldUFC3PRsM"
+             "url":"https://www.latihid.com/p/business-model-canvas",
+             "price":"Gratis"
+        }]
+
+    }]
+}
