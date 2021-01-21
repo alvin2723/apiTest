@@ -113,6 +113,111 @@
     },
     {
         "id":4,
+        "category-course":"LatihID Modul",
+        "short-desc":"",
+        "category-url":"https://www.latihid.com/courses/category/LatihIDModul",
+        "list-course":[{
+            "id":1,
+            "title":"Strategi Pemasaran untuk UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fybDrFdRkSXJxByMXP34",
+            "url":"https://www.latihid.com/p/strategi-pemasaran",
+            "price":"RP 21.000"
+        },
+        {
+            "id":2,
+            "title":"Memahami Analisa Rantai Nilai UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/jgZ8L8I0TWelTKrtcL6x",
+            "url":"https://www.latihid.com/p/rantai-nilai-umkm",
+            "price":"RP. 21.000"
+        },
+        {
+             "id":3,
+             "title":"Memahami Business Model Canvas untuk UMKM",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/l29RZnhSiaRd86duwY3S",
+             "url":"https://www.latihid.com/p/memahami-bmc",
+             "price":"RP. 21.000"
+        },
+        {
+             "id":4,
+             "title":"Menemukan Ide dan Perencanaan Usaha di Desa",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/zHI6ayQxTzCayjVlfnf7",
+             "url":"https://www.latihid.com/p/menemukan-ide",
+             "price":"RP. 21.000"
+        }]
+
+    },
+    {
+        "id":5,
+        "category-course":"LatihID Talks",
+        "short-desc":"",
+        "category-url":"https://www.latihid.com/courses/category/LatihIDModul",
+        "list-course":[{
+            "id":1,
+            "title":"Strategi Pemasaran untuk UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fybDrFdRkSXJxByMXP34",
+            "url":"https://www.latihid.com/p/strategi-pemasaran",
+            "price":"RP 21.000"
+        },
+        {
+            "id":2,
+            "title":"Memahami Analisa Rantai Nilai UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/jgZ8L8I0TWelTKrtcL6x",
+            "url":"https://www.latihid.com/p/rantai-nilai-umkm",
+            "price":"RP. 21.000"
+        },
+        {
+             "id":3,
+             "title":"Memahami Business Model Canvas untuk UMKM",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/l29RZnhSiaRd86duwY3S",
+             "url":"https://www.latihid.com/p/memahami-bmc",
+             "price":"RP. 21.000"
+        },
+        {
+             "id":4,
+             "title":"Menemukan Ide dan Perencanaan Usaha di Desa",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/zHI6ayQxTzCayjVlfnf7",
+             "url":"https://www.latihid.com/p/menemukan-ide",
+             "price":"RP. 21.000"
+        }]
+
+    },
+    {
+        "id":6,
+        "category-course":"LatihID PETA",
+        "short-desc":"",
+        "category-url":"https://www.latihid.com/courses/category/LatihIDModul",
+        "list-course":[{
+            "id":1,
+            "title":"Strategi Pemasaran untuk UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fybDrFdRkSXJxByMXP34",
+            "url":"https://www.latihid.com/p/strategi-pemasaran",
+            "price":"RP 21.000"
+        },
+        {
+            "id":2,
+            "title":"Memahami Analisa Rantai Nilai UMKM",
+            "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/jgZ8L8I0TWelTKrtcL6x",
+            "url":"https://www.latihid.com/p/rantai-nilai-umkm",
+            "price":"RP. 21.000"
+        },
+        {
+             "id":3,
+             "title":"Memahami Business Model Canvas untuk UMKM",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/l29RZnhSiaRd86duwY3S",
+             "url":"https://www.latihid.com/p/memahami-bmc",
+             "price":"RP. 21.000"
+        },
+        {
+             "id":4,
+             "title":"Menemukan Ide dan Perencanaan Usaha di Desa",
+             "img-url":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/zHI6ayQxTzCayjVlfnf7",
+             "url":"https://www.latihid.com/p/menemukan-ide",
+             "price":"RP. 21.000"
+        }]
+
+    },
+    {
+        "id":7,
         "category-course":"Kelas Memulai Bisnis",
         "short-desc":"Bingung mau mulai Bisnis ? Sudah punya Ide tapi belum tahu cara implementasi bisnis nya? Gabung di kelas memulai bisnis sekarang !",
         "category-url":"https://www.latihid.com/courses/category/LatihIDModul",
@@ -154,7 +259,7 @@
 
     },
     {
-        "id":5,
+        "id":8,
         "category-course":"Kelas Pemasaran",
         "short-desc":"Ingin bisnismu lebih dikenal oleh pasar ? Ikuti kelas tentang pemasaran dan dapatkan manfaatnya dalam bisnismu !",
         "category-url":"https://www.latihid.com/courses/category/LatihIDModul",
@@ -189,7 +294,7 @@
 
     },
     {
-        "id":5,
+        "id":9,
         "category-course":"Kelas Manajemen Operasional",
         "short-desc":"Belajar Manajemen Operasional menjadi mudah dengan ikut kelas-kelas di sini! Bisa kamu praktekan langsung di Usahamu.",
         "category-url":"https://www.latihid.com/courses/category/LatihIDModul",
